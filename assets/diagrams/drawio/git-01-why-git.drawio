@@ -1,0 +1,28 @@
+                 WHY GIT?
+
++-------------------------+      +-------------------------+
+|      WITHOUT GIT        |      |        WITH GIT         |
++-------------------------+      +-------------------------+
+
+Developer                      Developer
+     │                              │
+     ▼                              ▼
+ Project                         Project
+     │                              │
+     ▼                              ▼
+Project_Final                    Git
+     │                              │
+     ▼                              ▼
+Project_Final_New               Commit 1
+     │                              │
+     ▼                              ▼
+Project_Final_Final             Commit 2
+     │                              │
+     ▼                              ▼
+😵 Confused                     Commit 3
+                                    │
+                                    ▼
+                             Project History
+                                    │
+                                    ▼
+                             Restore Anytime ✅
